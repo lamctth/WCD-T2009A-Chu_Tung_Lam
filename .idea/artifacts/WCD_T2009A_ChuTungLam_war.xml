@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="WCD-T2009A-ChuTungLam:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>WCD-T2009A-ChuTungLam</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="WCD-T2009A-ChuTungLam-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="WCD-T2009A-ChuTungLam:war exploded" />
+    </root>
+  </artifact>
+</component>
